@@ -2,6 +2,7 @@
 🌐 Web Application Deployment on Azure
 
 📁 Project Overview
+
 This project demonstrates the deployment of a simple Node.js web application using Azure App Service. The application is built with the Express.js framework and serves a static HTML page from the public directory. The deployment showcases the use of Azure's cloud capabilities such as automated deployment, scaling, and monitoring.
 
 🚀 Technologies Used
