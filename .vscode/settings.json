@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5042a2f8-b326-4a3b-b56e-939fe9fb02d1/resourceGroups/leonitaazuredb/providers/Microsoft.Web/sites/flowershop-webapp",
+    "appService.deploySubpath": "."
+}
